@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/forecast/page": "/forecast",
+  "/integrations/page": "/integrations",
+  "/products/page": "/products",
+  "/inventory/page": "/inventory",
+  "/warehouses/page": "/warehouses",
+  "/page": "/"
+}
